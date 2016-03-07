@@ -1,0 +1,4 @@
+[defaults]
+visible = home, own_tweets, mentions, favorites, messages
+buffers = mentions, favorites, messages, own_tweets
+
